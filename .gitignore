@@ -1,0 +1,6 @@
+/build
+/doppelgit.egg-info
+/.vscode
+/.git
+/doppelgit/__pycache__
+/doppelgit/test
